@@ -3,5 +3,6 @@ public Class HelloWorld {
 		System.out.println("Hello World");
 		System.out.println("new-feature-1");
 		System.out.prontln("new-feature-2");
+		System.out.prontln("new-feature-2");
 	}
 }
